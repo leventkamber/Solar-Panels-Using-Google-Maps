@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@tweenjs/tween.js": "^20.0.3",
+    "deck.gl": "^8.9.19",
+    "express": "^4.18.2",
+    "http-proxy-middleware": "^2.0.6",
+    "react-map-gl": "^7.0.25",
+    "three": "^0.153.0"
+  },
+  "devDependencies": {
+    "vite": "^4.3.9"
+  }
+}
